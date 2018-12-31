@@ -2,6 +2,8 @@
 
 > JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed.
 
+## Summary 
+
 - JWT Format
 - JWT Signature - None algorithm
 - JWT Signature - RS256 to HS256
@@ -136,7 +138,7 @@ Secret is "Sn1f"
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMj...Fh7HgQ:secret
 ```
 
-## Thanks
+## References
 
 - [Hacking JSON Web Token (JWT) - Hate_401](https://medium.com/101-writeups/hacking-json-web-token-jwt-233fe6c862e6)
 - [WebSec CTF - Authorization Token - JWT Challenge](https://ctf.rip/websec-ctf-authorization-token-jwt-challenge/)
